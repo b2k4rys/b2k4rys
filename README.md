@@ -12,6 +12,4 @@
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=b2k4rys)](https://git.io/streak-stats)
-
 
